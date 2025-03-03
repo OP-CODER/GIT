@@ -1,0 +1,8 @@
+Launch one ec2 using Amazon Linux 2 image and add script in user data to install Apache.
+2) Launch one ec2 using Ubuntu image and add script in user data to install Nginx.
+3) Launch one windows server and install tomcat in windows.
+4) Take snapshot of the instane created in Task 1.
+5) Assign password less authentication for ec2 created on Task 2.
+6) Launch any ec2 using spot purchasing option.
+7) Enable Termination policy on ec2 created in Task 2.
+8) Launch one ec2 using Aws CLI.
