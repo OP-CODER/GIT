@@ -1,0 +1,8 @@
+1) Install nginx and run nginx on port number 81.
+2) Deploy a sample index.html file on nginx.
+3) Install Apache and run Apache on port number 82
+4) Deploy a sample index.html file on Apache.
+5) Install Apache tomcat on port number 8082
+6) Deploy a sample app on webapps
+7) Create a tomcat.service file for tomcat.
+8) Configure HA Proxy server
