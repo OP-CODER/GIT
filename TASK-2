@@ -1,0 +1,31 @@
+Create a zero byte file(Name it as sample).
+Create a directory.
+Create a directory(abc),inside abc create directory(z),inside Z create another directory(y).
+echo "hello world" and store that in sample file which we created at task1.
+give permissions to "sample" file(owner-read and write,user-execute,other,read,write and execute permission)
+create a bash script file in "Z" directory created in task3.(Name of script: myscript.sh)
+Sample script:  
+ #!/bin/bash
+ echo "my path cd abc/a/b/c"
+give full permissions myscript.sh
+create a soft link to myscript.sh
+find the file "sample" and capture the output in same file.
+create a file"alphabet" and enter a,b,c,d,e,f,g,a,b and save the file.
+grep the keyword small a in file alphabet.
+grep the keyword capital A in file alphabet.
+create a script name "demo.sh".
+Sample script:  
+ #!/bin/bash
+ echo "my demo"
+ sleeep "60"
+open one gitbash terminal and check for demo.sh process.
+rerun the demo.sh terminal and kill the process from anaother gitbash terminal.
+check the user id of pc.
+check the username of pc.
+check the operating system of pc.
+check the free space available of pc.
+check the cpu utilization of pc.
+create a directory with any name and tar that directory.
+now remove the directory and untar the tar file created in step 30.
+Execute the below command.
+   history >> mytask
