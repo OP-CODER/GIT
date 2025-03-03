@@ -1,0 +1,7 @@
+Create one IAM user and assign ec2,s3 full access role.
+2) Create one Group in IAM and Assign Read access for ec2.
+3) Create a new user with name Devops and add to the group created in task2.
+4) Write a bash script to create a IAM user with VPC full access.
+5) Create a IAM policy to access ec2 for a specific user in specific regions only.
+6) We have two accounts Account A and Account B, Account A user should access s3 bucket in Account B. 
+(Collaborate with team member and execute this.Mostly asked in every interview)
