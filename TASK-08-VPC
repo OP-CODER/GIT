@@ -1,0 +1,10 @@
+Create VPC with 2 private and 2 public subnets.
+2) Enable DNS Hostname in VPC
+3) Enable Auto Assign Public ip in 2 public subnets
+4) Add 2 private subnets in private route table
+5) Add 2 public subnets in public route table
+6) Public route table will have the routes to internet and local
+7) Create Ec2 in public subnet with t2micro and install php
+8) COnfigure Nat gateway in public subnet and connect to private Instance
+9) Install Apache Tomcat in private ec2 and deploy a sample app.
+10) Configure VPC flow logs and store the logs in s3 and CloudWatch
