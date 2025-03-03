@@ -1,0 +1,15 @@
+Check system information
+Manage users (create, delete, modify)
+Manage groups (create, delete, modify)
+Change user passwords
+Create, rename, move, and delete files
+Create, rename, move, and delete directories
+Change file permissions
+Change file ownership
+View running processes
+Kill a process by PID or name
+Check disk usage and free space
+Monitor system performance (CPU, memory usage)
+Install and remove packages using a package manager
+Configure and check network settings
+View and analyze system logs
