@@ -1,0 +1,20 @@
+Execute all the scripts from the notes shared in #devops-cloud-documents-11 channel.
+2) Mug up scripts related to if condition and for loop
+1) Create on Bash script to check if a directory is available or not.
+
+2) Create a bash script which will create multiple files.
+
+3) Create a bash script to take backup of a directory.
+
+4) Create a bash script to install nginx in ec2 server.
+
+5) Create a bash script to install ApacheTomcat in ec2 server.
+
+6) Create a bash script to check list if nginx service is running or not,if not running
+   then script should start the service.
+   
+7) Create a bash script for calculator.
+
+8) Create a bash script to check if directory is avaialble or not,if not then create a directory.
+
+9) Create bash script to delete last 3 lines for a file.
