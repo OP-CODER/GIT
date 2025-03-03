@@ -1,0 +1,8 @@
+1) Create s3 bucket and upload some objects to s3.
+2) Deploy static website in s3 bucket.
+3) Enable cross region replication on s3 buckets.
+4) Configure bucket policy,only Admin user can see the objects of s3 bucket.
+5) Setup lifecycle policies to automatically transition or delete objects based on specific criteria.
+6) Push some objects in s3 using AWS CLI.
+7) Write a bash script to create s3 bucket.
+8) Upload one 1 gb of file to s3 using cli.
